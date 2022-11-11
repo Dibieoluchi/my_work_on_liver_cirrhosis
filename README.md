@@ -71,6 +71,8 @@ Stage: histologic stage of disease [1, 2, 3, or 4]
 reference for my project: https://www.kaggle.com/code/arjunbhaybhang/liver-cirrhosis-prediction-with-xgboost-eda
 
 data site
+
+
 CONCLUSION:
 
 from our  analysis we  observed that age has a positive correlation to our disease stages , the older you get the higher the probabilty of having cirrhosis.
