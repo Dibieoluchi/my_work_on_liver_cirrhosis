@@ -1,4 +1,7 @@
 # my_work_on_liver_cirrhosis
+![image](https://user-images.githubusercontent.com/88893142/201343911-3abf88cf-b10a-48be-a225-1ee1bc451bd8.png)
+
+
 CIRRHOSIS LIVER DISEASE ANALYSIS
 CONTEXT
 
