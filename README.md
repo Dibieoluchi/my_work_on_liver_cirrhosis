@@ -71,3 +71,13 @@ Stage: histologic stage of disease [1, 2, 3, or 4]
 reference for my project: https://www.kaggle.com/code/arjunbhaybhang/liver-cirrhosis-prediction-with-xgboost-eda
 
 data site
+CONCLUSION:
+
+from our  analysis we  observed that age has a positive correlation to our disease stages , the older you get the higher the probabilty of having cirrhosis.
+
+
+albumin,platelets,cholesterol and tryglicerides has a negative correlaton with the disease stages , the lower the accumulation of this serum in a patient blood level the higher the chances of cirrhosis
+
+bilirubin,copper and prothrombin has a postive correlation with disease stage , the higher the accumulation of this serum in a patient blood level the higher the chance of cirrhosis
+
+so therefore , only age, albumin, platelets,cholesterol,and triglicerides are the predicting gactor in determining liver cirrhosis in a person
